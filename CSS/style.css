@@ -1,0 +1,205 @@
+/* Main settings */
+body {
+    font-family: Montserrat, sans-serif;
+    position: relative;
+}
+
+/* Navigation */
+
+.navbar {
+    margin-bottom: 0;
+    background-color:  #1C1259 !important;
+    border: 0;
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar a:hover {
+    color: #CACAEA;
+}
+
+
+
+/* Main picture */
+
+.main-container {
+    background-color: #EE4266;
+    /*height: 600px; */
+}
+
+.text-content {
+    color: #FF9B00;
+    font-weight: 600;
+    font-family: 'Bangers', serif !important;
+    font-size: 44px;
+    align-content: center;
+    /*padding-top: 150px; */
+    text-shadow: -2px 0 black, 0 2px black, 2px 0, 0 -2px;
+    padding-top: 100px;
+    padding-bottom: 60px;
+    }
+
+.brand-name {
+    font-size: 88px;
+}
+
+.btn {
+    font-family: 'Open Sans', sans-serif !important;
+    text-shadow: none!important;
+    
+}
+
+.first-image {
+    max-width: 45em;
+    height: 35em;
+    padding-top: 20%;
+    padding-bottom: 60px;
+    margin: 15px auto;
+    display:
+    }
+
+.first-image-details {
+    vertical-align: middle;
+}
+/* Company info */
+
+.left-side-picture {
+    max-width: 400px;
+    height: auto;
+    vertical-align: middle;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.company-info {
+    background-color: #CACAEA;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 18px;
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+
+
+
+.company-info-name {
+    font-weight: 900;
+}
+
+.company-name-in-text {
+    font-weight: 600;
+}
+
+
+/* What is inside the box */
+
+.what-is-inside {
+    background-color: #FF9B00;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.choice-text {
+    letter-spacing: 15px;
+}
+.card-inside {
+    background-color: #FF9B00;
+    font-weight: 600;
+    width: 350px;
+    border-width: 15px;
+    border-color: darkorange;
+    border-radius: 15px;
+    transition: box-shadow 0.5s;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.card-img {
+    width: 200px;
+    height: auto;
+    
+   }
+
+.card-list {
+    list-style-type: none;
+    margin-left: -25px;
+ }
+
+/* How to order */
+
+.order-info {
+    background-color: #EE4266;
+    width: auto;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.phone-order {
+    color: black;    
+}
+
+.contact-info {
+    color: black!important;
+}
+
+/* Bottom info */
+
+.bottom-info {
+    background-color:  #1C1259;
+    color: #CACAEA;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.bottom-contact {
+    line-height: 1px;
+}
+
+.bottom-link {
+    color: #CACAEA;
+}
+
+/* Contacts page */
+.contact-link-body {
+    background-color: #FF9B00;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.fa-facebook-messenger {
+    color: black;
+}
+
+/* DUK page */
+
+.duk-info {
+    background-color: #CACAEA;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 12px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.duk-card {
+    background-color: #CACAEA;
+    color: black;
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14px;
+}
+
+.btn-link-color {
+    color: black;
+    font-weight: 600;
+}
